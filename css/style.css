@@ -44,7 +44,6 @@
   }
   ::-webkit-scrollbar-track {
     width: 0px;
-    background: #343a40;
   }
   
   /* Main Style css */
@@ -97,17 +96,6 @@
   .social-icons a:hover i{
     transform: rotate(360deg);
     color:#ff0000;
-  }
-  
-  .navbar-light .navbar-brand,
-  .navbar-light .navbar-nav .nav-link {
-    color: white;
-    text-decoration: none;
-  }
-  
-  .navbar-light .navbar-brand:hover,
-  .navbar-light .navbar-nav .nav-link:hover {
-    color: #ffffff;
   }
   
   #aboutUs {
@@ -999,7 +987,6 @@
     position: fixed;
     width: 100%;
     z-index: 1;
-    background-image: url("./data/img/Tlo-Full-HD.png");
   }
   /* #paraGraph {
     font-size: 1.4rem;

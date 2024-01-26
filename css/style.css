@@ -34,11 +34,11 @@
   ::-webkit-scrollbar-thumb {
     width: 10px;
     /* border-radius: 5px; */
-    background-image: url("./data/img/Tlo-Full-HD.png");
+    background-image: url("/img/tlo.jpg");
     cursor: pointer;
   }
   ::-webkit-scrollbar-thumb:hover {
-    background-image: url("./data/img/Tlo-Full-HD.png");
+    background-image: url("/img/tlo.jpg");
     transition: all 0.1s ease-in-out;
     filter: blur(20px);
   }
